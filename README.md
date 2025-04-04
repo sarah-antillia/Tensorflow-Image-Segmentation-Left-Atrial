@@ -338,6 +338,7 @@ https://www.frontiersin.org/journals/cardiovascular-medicine/articles/10.3389/fc
 <br>
 <br>
 <b>2. Medical Image Analysis on Left Atrial LGE MRI for Atrial Fibrillation Studies: A Review</b>
+<br>
 Lei Li, Veronika A Zimmer, Julia A Schnabel, Xiahai Zhuang<br>
 <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7614005/">https://pmc.ncbi.nlm.nih.gov/articles/PMC7614005/</a>
 
